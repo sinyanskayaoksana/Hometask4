@@ -1,0 +1,145 @@
+{
+    "services":[
+        {
+            "design":[
+                {   
+                    "id": 1,
+                    "img": "./img/design.svg",
+                    "imgBig":"./img/designBig.svg",
+                    "title": "Interior Design1",
+                    "description": "1Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 2,
+                    "img": "./img/design.svg",
+                    "imgBig":"./img/designBig.svg",
+                    "title": "Interior Design2",
+                    "description": "2Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 3,
+                    "img": "./img/design.svg",
+                    "imgBig":"./img/designBig.svg",
+                    "title": "Interior Design3",
+                    "description": "3Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 4,
+                    "img": "./img/design.svg",
+                    "imgBig":"./img/designBig.svg",
+                    "title": "Interior Design4",
+                    "description": "4Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 5,
+                    "img": "./img/design.svg",
+                    "imgBig":"./img/designBig.svg",
+                    "title": "Interior Design5",
+                    "description": "5Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 6,
+                    "img": "./img/design.svg",
+                    "imgBig":"./img/designBig.svg",
+                    "title": "Interior Design6",
+                    "description": "6Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                }
+            ]
+        },
+        {
+            "architecture": [
+                    {   
+                        "id": 1,
+                        "img": "./img/architecture.svg",
+                        "imgBig":"./img/architectureBig.svg",
+                        "title": "Architecture 1",
+                        "description": "1Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                    },
+                    {   
+                        "id": 2,
+                        "img": "./img/architecture.svg",
+                        "imgBig":"./img/architectureBig.svg",
+                        "title": "Architecture 2",
+                        "description": "2Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                    },
+                    {   
+                        "id": 3,
+                        "img": "./img/architecture.svg",
+                        "imgBig":"./img/architectureBig.svg",
+                        "title": "Architecture 3",
+                        "description": "3Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                    },
+                    {   
+                        "id": 4,
+                        "img": "./img/architecture.svg",
+                        "imgBig":"./img/architectureBig.svg",
+                        "title": "Architecture 4",
+                        "description": "4Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                    },
+                    {   
+                        "id": 5,
+                        "img": "./img/architecture.svg",
+                        "imgBig":"./img/architectureBig.svg",
+                        "title": "Architecture 5",
+                        "description": "5Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                    },
+                    {   
+                        "id": 6,
+                        "img": "./img/architecture.svg",
+                        "imgBig":"./img/architectureBig.svg",
+                        "title": "Architecture 6",
+                        "description": "6Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                    }
+            ]
+        },
+        {
+            "planning": [
+                
+                {   
+                    "id": 1,
+                    "img": "./img/planning.svg",
+                    "imgBig":"./img/planningBig.svg",
+                    "title": "Planning 1",
+                    "description": "1Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 2,
+                    "img": "./img/planning.svg",
+                    "imgBig":"./img/planningBig.svg",
+                    "title": "Planning 2",
+                    "description": "2Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 3,
+                    "img": "./img/planning.svg",
+                    "imgBig":"./img/planningBig.svg",
+                    "title": "Planning 3",
+                    "description": "3Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 4,
+                    "img": "./img/planning.svg",
+                    "imgBig":"./img/planningBig.svg",
+                    "title": "Planning 4",
+                    "description": "4Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 5,
+                    "img": "./img/planning.svg",
+                    "imgBig":"./img/planningBig.svg",
+                    "title": "Planning 5",
+                    "description": "5Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                },
+                {   
+                    "id": 6,
+                    "img": "./img/planning.svg",
+                    "imgBig":"./img/planningBig.svg",
+                    "title": "Planning 6",
+                    "description": "6Lorem ipsum dolor amet consectetur adipiscing elit sed eiusmod tempor incididunt ut labore."
+                }
+                
+            ]
+        }
+
+    ]
+}
